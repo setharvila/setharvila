@@ -1,29 +1,33 @@
-[![Seth's GitHub Banner](GitHubHeader.png)](https://setharvila.com)
+[![Seth's GitHub Banner](GH-Header.png)](https://setharvila.com)
 
 ---
-## ABOUT
-I am a  student studying Computer Science  at North Dakota State University in Fargo, ND. I have worked with a variety of languages and tools. I am continuing to develop more skills. I am still learning and still figuring out exactly where in computer science I want to focus. Right now I am passionate about web, mobile, and spatial computing.
+  What people ask for and what they need are rarely the same. I design and build what they need.
 
+  Currently a software engineer at Microsoft, building data entry UI for Dynamics 365 Finance and Operations.                                                                
 
-I am always learning and always working on different projects. I am most comfortable working in Java, Swift, and Python. 
-  
-I am currently working as an AV Technology Student manager at North Dakota State University where I am developing skills in communicating complex problems to customers, working in and coordinating team efforts, seeing projects through to success, and advancing my skills in real time problem solving.
+  [Portfolio](https://setharvila.com) · [Resume](https://setharvila.com/resume) · [LinkedIn](https://www.linkedin.com/in/setharvila)
 
----
-## AROUND THE WEB
-Find me around the web to stay up to date with various projects that I am working on!
-<br>
-### [WEBSITE](https://setharvila.com)
-My website is the one stop place to stay up to date with what I am doing. There you can see what projects I am working on, my past experiences, and what skills I am currently developing. You can also view my resume, and get in touch with me.
+  ## Selected work
 
-### [LINKEDIN](https://linkedin.com/in/setharvila)
-My linked in profile is the place to be to see what I am up to. You can also connect with me to discuss projects, and make a professional connection.
+  - **[Field Research Submission Tool](https://setharvila.com/work/frst):** asked to add a spreadsheet upload, I found the real problem was a form that took one entry per submission, and proposed fixing the form
+  instead.
+  - **[Apex IFE](https://setharvila.com/work/apex-ife):** a SwiftUI iPad app that recreates an airline's seat-back entertainment system, simulating a full flight in real time.
+  - **[Vision Pro text input](https://setharvila.com/work/vision-pro):** a design for spelling with your hands on Apple Vision Pro, using signs based on the ASL alphabet.
+  - **[This site](https://setharvila.com/work/this-site):** my portfolio, designed as a spec sheet and built in React and TypeScript.
 
+  ## On GitHub
 
+  - **[RoomMate](https://github.com/setharvila/roomMate):** an iOS app that shows technicians when a classroom is free.
+  - **[HourCalc](https://github.com/setharvila/hourCalc):** works out when to clock out without going over your weekly hours. [Try it](https://setharvila.github.io/hourCalc/).
+  - **[Math Is Awesome](https://github.com/setharvila/MathIsAwesome):** an app for exploring the area of 2D shapes and the volume of 3D shapes.
 
----
+  ## Skills
 
-While most of my work thus far has been for courses and cannot be publicly published. I do work on some projects in my free time. Have a look at my public repositories to see some of my projects!
+  **Design:** Figma, prototyping, design systems, typography, accessibility (WCAG)
+
+  **Engineering:** TypeScript, React, HTML/CSS, Swift/SwiftUI, Node.js, Git
+
 
 Happy Browsing!
+
 Seth
